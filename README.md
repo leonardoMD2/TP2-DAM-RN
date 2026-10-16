@@ -8,7 +8,7 @@
 
 ## Objetivo General
 
-Desarrollar una aplicación móvil nativa utilizando **React Native y Expo**, integrada con un **backend funcional** de desarrollo propio. La aplicación deberá presentar un catálogo de productos de un rubro a elección del equipo, permitir visualizar el detalle de cada producto, gestionar un carrito de compras mediante estado y concretar un flujo de **pago simulado** procesado por el servidor.
+Desarrollar una aplicación móvil nativa utilizando **React Native y Expo**, integrada con un **backend funcional** de desarrollo propio. La aplicación deberá presentar un catálogo de productos de un rubro a elección del equipo, permitir visualizar el detalle de cada producto, gestionar un carrito de compras mediante estado y concretar un flujo de **pago simulado** procesado por el servidor. La aplicación deberá funcionar en entorno de PRODUCCIÓN.
 
 ---
 
