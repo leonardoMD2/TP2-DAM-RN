@@ -68,6 +68,7 @@ Desarrollar una aplicación móvil nativa utilizando **React Native y Expo**, in
    - Encabezado con el nombre de la tienda y un botón/acceso rápido al carrito (indicando la cantidad de productos agregados).
    - Listado de productos utilizando `FlatList`.
    - Al tocar un producto, navega de forma dinámica a su pantalla de detalle.
+   - Filtros básicos de categoría y/o precios.
 
 2. **Pantalla 2 — Detalle del Producto (`app/detalle/[id].jsx`):**
    - Contenedor con `ScrollView`.
